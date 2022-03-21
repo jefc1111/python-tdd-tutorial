@@ -1,2 +1,5 @@
 # python-tdd-tutorial
-https://www.obeythetestinggoat.com/book/
+
+This repo is my work from following this book;
+
+https://www.obeythetestinggoat.com/book
